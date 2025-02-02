@@ -28,14 +28,12 @@ Engine.ini設定で以下を強制有効化：
 
 1. **ゲームファイルパスの**  
    `X6Game\Saved\Config\Windows\Engine.ini` を開く
-   
    なければつくる
 
-3. **設定追記**（メモ帳等で編集）
-4. 
+2. **設定追記**（メモ帳等で編集）
    Engine.iniの内容を入れる
 
-5. **Engine.iniを読み取り専用にする**
+3. **Engine.iniを読み取り専用にする**
 
 ## 【説明】（Unreal Engine 5.3 Documentationより）
 
